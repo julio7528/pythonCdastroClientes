@@ -1,0 +1,366 @@
+TimeStamp: 16/11/2022 22:53:15 - ***** INICIO DA MAIN *****
+TimeStamp: 16/11/2022 22:53:15 - Database created and Successfully Connected to SQLite
+TimeStamp: 16/11/2022 22:53:16 - SQLite Database Version is: , [('3.38.4',)]
+TimeStamp: 16/11/2022 22:53:16 - Table not exists - creating.
+TimeStamp: 16/11/2022 22:53:16 - SQLite table created
+TimeStamp: 16/11/2022 22:53:16 - The SQLite connection is closed
+TimeStamp: 16/11/2022 22:53:33 - ***** INICIO DA MAIN *****
+TimeStamp: 16/11/2022 22:53:33 - Database created and Successfully Connected to SQLite
+TimeStamp: 16/11/2022 22:53:33 - SQLite Database Version is: , [('3.38.4',)]
+TimeStamp: 16/11/2022 22:53:33 - Table already exists.
+TimeStamp: 16/11/2022 22:53:33 - SQLite table created
+TimeStamp: 16/11/2022 22:53:33 - The SQLite connection is closed
+Log: 16/11/2022 23:10:38 - ***** INICIO DA MAIN *****
+Log: 16/11/2022 23:10:38 - Database created and Successfully Connected to SQLite
+Log: 16/11/2022 23:10:38 - SQLite Database Version is: , [('3.38.4',)]
+Log: 16/11/2022 23:10:38 - Table already exists.
+Log: 16/11/2022 23:10:38 - SQLite table created
+Log: 16/11/2022 23:10:38 - The SQLite connection is closed
+Log: 16/11/2022 23:12:07 - ***** INICIO DA MAIN *****
+Log: 16/11/2022 23:12:07 - Database created and Successfully Connected to SQLite
+Log: 16/11/2022 23:12:07 - SQLite Database Version is: , [('3.38.4',)]
+Log: 16/11/2022 23:12:07 - Table already exists.
+Log: 16/11/2022 23:12:07 - SQLite table created
+Log: 16/11/2022 23:12:07 - The SQLite connection is closed
+Log: 16/11/2022 23:12:07 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:31:22 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:31:22 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:31:22 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:31:22 - Table already exists.
+Log:16/11/2022 23:31:22 - SQLite table created
+Log:16/11/2022 23:31:25 - The SQLite connection is closed
+Log:16/11/2022 23:31:25 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:33:27 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:33:27 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:33:27 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:33:27 - Table already exists.
+Log:16/11/2022 23:33:27 - SQLite table created
+Log:16/11/2022 23:33:29 - The SQLite connection is closed
+Log:16/11/2022 23:33:29 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:35:24 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:35:24 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:35:24 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:35:24 - Table already exists.
+Log:16/11/2022 23:35:24 - SQLite table created
+Log:16/11/2022 23:35:25 - The SQLite connection is closed
+Log:16/11/2022 23:35:25 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:35:39 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:35:39 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:35:39 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:35:39 - Table already exists.
+Log:16/11/2022 23:35:39 - SQLite table created
+Log:16/11/2022 23:35:40 - The SQLite connection is closed
+Log:16/11/2022 23:35:40 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:36:42 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:36:42 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:36:42 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:36:42 - Table already exists.
+Log:16/11/2022 23:36:42 - SQLite table created
+Log:16/11/2022 23:36:43 - The SQLite connection is closed
+Log:16/11/2022 23:36:43 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:48:26 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:48:26 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:48:26 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:48:26 - Table already exists.
+Log:16/11/2022 23:48:26 - SQLite table created
+Log:16/11/2022 23:48:31 - Realizado consulta de cadastro
+Log:16/11/2022 23:48:31 - The SQLite connection is closed
+Log:16/11/2022 23:48:31 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:48:34 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:48:34 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:48:34 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:48:34 - Table already exists.
+Log:16/11/2022 23:48:34 - SQLite table created
+Log:16/11/2022 23:49:00 - The SQLite connection is closed
+Log:16/11/2022 23:49:00 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:49:05 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:49:05 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:49:05 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:49:05 - Table already exists.
+Log:16/11/2022 23:49:05 - SQLite table created
+Log:16/11/2022 23:49:06 - Realizado consulta de cadastro
+Log:16/11/2022 23:49:06 - The SQLite connection is closed
+Log:16/11/2022 23:49:06 - ***** FIM DA MAIN *****
+Log:16/11/2022 23:57:10 - ***** INICIO DA MAIN *****
+Log:16/11/2022 23:57:10 - Database created and Successfully Connected to SQLite
+Log:16/11/2022 23:57:10 - SQLite Database Version is: , [('3.38.4',)]
+Log:16/11/2022 23:57:10 - Table already exists.
+Log:16/11/2022 23:57:10 - SQLite table created
+Log:16/11/2022 23:57:15 - The SQLite connection is closed
+Log:16/11/2022 23:57:15 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:32:54 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:32:54 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:32:54 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:32:54 - Table already exists.
+Log:17/11/2022 00:32:54 - SQLite table created
+Log:17/11/2022 00:33:01 - Realizado consulta de cadastro
+Log:17/11/2022 00:33:01 - The SQLite connection is closed
+Log:17/11/2022 00:33:01 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:33:04 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:33:04 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:33:04 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:33:04 - Table already exists.
+Log:17/11/2022 00:33:04 - SQLite table created
+Log:17/11/2022 00:33:29 - Error while connecting to sqlite, near "%": syntax error
+Log:17/11/2022 00:33:29 - The SQLite connection is closed
+Log:17/11/2022 00:33:29 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:34:07 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:34:07 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:34:07 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:34:07 - Table already exists.
+Log:17/11/2022 00:34:07 - SQLite table created
+Log:17/11/2022 00:34:17 - Error while connecting to sqlite, near "%": syntax error
+Log:17/11/2022 00:34:17 - The SQLite connection is closed
+Log:17/11/2022 00:34:17 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:36:12 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:36:12 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:36:12 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:36:12 - Table already exists.
+Log:17/11/2022 00:36:12 - SQLite table created
+Log:17/11/2022 00:36:21 - The SQLite connection is closed
+Log:17/11/2022 00:36:21 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:36:25 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:36:25 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:36:25 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:36:25 - Table already exists.
+Log:17/11/2022 00:36:25 - SQLite table created
+Log:17/11/2022 00:36:31 - The SQLite connection is closed
+Log:17/11/2022 00:36:31 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:36:50 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:36:51 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:36:51 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:36:51 - Table already exists.
+Log:17/11/2022 00:36:51 - SQLite table created
+Log:17/11/2022 00:37:02 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+Log:17/11/2022 00:37:02 - The SQLite connection is closed
+Log:17/11/2022 00:37:02 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:37:14 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:37:14 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:37:14 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:37:14 - Table already exists.
+Log:17/11/2022 00:37:14 - SQLite table created
+Log:17/11/2022 00:37:24 - Error while connecting to sqlite, near "%": syntax error
+Log:17/11/2022 00:37:24 - The SQLite connection is closed
+Log:17/11/2022 00:37:24 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:38:04 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:38:04 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:38:04 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:38:04 - Table already exists.
+Log:17/11/2022 00:38:04 - SQLite table created
+Log:17/11/2022 00:38:12 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 0, and there are 1 supplied.
+Log:17/11/2022 00:38:12 - The SQLite connection is closed
+Log:17/11/2022 00:38:12 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:38:31 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:38:31 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:38:31 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:38:31 - Table already exists.
+Log:17/11/2022 00:38:31 - SQLite table created
+Log:17/11/2022 00:38:38 - The SQLite connection is closed
+Log:17/11/2022 00:38:38 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:40:41 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:40:41 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:40:41 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:40:41 - Table already exists.
+Log:17/11/2022 00:40:41 - SQLite table created
+Log:17/11/2022 00:40:50 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+Log:17/11/2022 00:40:50 - The SQLite connection is closed
+Log:17/11/2022 00:40:50 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:41:27 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:41:27 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:41:27 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:41:27 - Table already exists.
+Log:17/11/2022 00:41:27 - SQLite table created
+Log:17/11/2022 00:41:34 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+Log:17/11/2022 00:41:34 - The SQLite connection is closed
+Log:17/11/2022 00:41:34 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:41:37 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:41:37 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:41:37 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:41:37 - Table already exists.
+Log:17/11/2022 00:41:37 - SQLite table created
+Log:17/11/2022 00:41:44 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+Log:17/11/2022 00:41:44 - The SQLite connection is closed
+Log:17/11/2022 00:41:44 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:42:07 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:42:07 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:42:07 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:42:07 - Table already exists.
+Log:17/11/2022 00:42:07 - SQLite table created
+Log:17/11/2022 00:42:14 - Error while connecting to sqlite, Incorrect number of bindings supplied. The current statement uses 1, and there are 6 supplied.
+Log:17/11/2022 00:42:14 - The SQLite connection is closed
+Log:17/11/2022 00:42:14 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:44:08 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:44:08 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:44:09 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:44:09 - Table already exists.
+Log:17/11/2022 00:44:09 - SQLite table created
+Log:17/11/2022 00:44:16 - The SQLite connection is closed
+Log:17/11/2022 00:44:16 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:49:30 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:49:30 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:49:30 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:49:30 - Table already exists.
+Log:17/11/2022 00:49:30 - SQLite table created
+Log:17/11/2022 00:49:46 - The SQLite connection is closed
+Log:17/11/2022 00:49:46 - ***** FIM DA MAIN *****
+Log:17/11/2022 00:52:06 - ***** INICIO DA MAIN *****
+Log:17/11/2022 00:52:06 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 00:52:06 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 00:52:06 - Table already exists.
+Log:17/11/2022 00:52:06 - SQLite table created
+Log:17/11/2022 00:52:22 - The SQLite connection is closed
+Log:17/11/2022 00:52:22 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:06:11 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:06:11 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:06:11 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:06:11 - Table already exists.
+Log:17/11/2022 01:06:11 - SQLite table created
+Log:17/11/2022 01:06:25 - The SQLite connection is closed
+Log:17/11/2022 01:06:25 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:06:36 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:06:36 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:06:36 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:06:36 - Table already exists.
+Log:17/11/2022 01:06:36 - SQLite table created
+Log:17/11/2022 01:06:49 - The SQLite connection is closed
+Log:17/11/2022 01:06:49 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:07:16 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:07:16 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:07:16 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:07:16 - Table already exists.
+Log:17/11/2022 01:07:16 - SQLite table created
+Log:17/11/2022 01:07:18 - The SQLite connection is closed
+Log:17/11/2022 01:07:18 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:07:21 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:07:21 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:07:21 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:07:21 - Table already exists.
+Log:17/11/2022 01:07:21 - SQLite table created
+Log:17/11/2022 01:08:07 - The SQLite connection is closed
+Log:17/11/2022 01:08:07 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:08:09 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:08:09 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:08:09 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:08:09 - Table already exists.
+Log:17/11/2022 01:08:09 - SQLite table created
+Log:17/11/2022 01:08:25 - The SQLite connection is closed
+Log:17/11/2022 01:08:25 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:09:32 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:09:32 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:09:32 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:09:32 - Table already exists.
+Log:17/11/2022 01:09:32 - SQLite table created
+Log:17/11/2022 01:09:45 - The SQLite connection is closed
+Log:17/11/2022 01:09:45 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:09:48 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:09:48 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:09:48 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:09:48 - Table already exists.
+Log:17/11/2022 01:09:48 - SQLite table created
+Log:17/11/2022 01:17:53 - The SQLite connection is closed
+Log:17/11/2022 01:17:53 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:18:00 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:18:00 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:18:00 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:18:00 - Table already exists.
+Log:17/11/2022 01:18:00 - SQLite table created
+Log:17/11/2022 01:18:23 - The SQLite connection is closed
+Log:17/11/2022 01:18:23 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:34:07 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:34:07 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:34:07 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:34:07 - Table already exists.
+Log:17/11/2022 01:34:07 - SQLite table created
+Log:17/11/2022 01:34:32 - The SQLite connection is closed
+Log:17/11/2022 01:34:32 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:34:36 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:34:36 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:34:36 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:34:36 - Table already exists.
+Log:17/11/2022 01:34:36 - SQLite table created
+Log:17/11/2022 01:34:39 - Realizado consulta de cadastro
+Log:17/11/2022 01:34:39 - The SQLite connection is closed
+Log:17/11/2022 01:34:39 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:34:57 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:34:57 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:34:57 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:34:57 - Table already exists.
+Log:17/11/2022 01:34:57 - SQLite table created
+Log:17/11/2022 01:35:20 - The SQLite connection is closed
+Log:17/11/2022 01:35:20 - ***** FIM DA MAIN *****
+Log:17/11/2022 01:35:36 - ***** INICIO DA MAIN *****
+Log:17/11/2022 01:35:36 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 01:35:36 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 01:35:36 - Table already exists.
+Log:17/11/2022 01:35:36 - SQLite table created
+Log:17/11/2022 01:35:42 - Realizado consulta de cadastro
+Log:17/11/2022 01:35:42 - The SQLite connection is closed
+Log:17/11/2022 01:35:42 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:04:14 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:04:14 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:04:14 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:04:14 - Table already exists.
+Log:17/11/2022 02:04:14 - SQLite table created
+Log:17/11/2022 02:04:28 - The SQLite connection is closed
+Log:17/11/2022 02:04:28 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:04:36 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:04:36 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:04:36 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:04:36 - Table already exists.
+Log:17/11/2022 02:04:36 - SQLite table created
+Log:17/11/2022 02:04:38 - Realizado consulta de cadastro
+Log:17/11/2022 02:04:38 - The SQLite connection is closed
+Log:17/11/2022 02:04:38 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:19:00 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:19:00 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:19:00 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:19:00 - Table already exists.
+Log:17/11/2022 02:19:00 - SQLite table created
+Log:17/11/2022 02:19:03 - Realizado consulta de cadastro
+Log:17/11/2022 02:19:04 - Realizado consulta de cadastro
+Log:17/11/2022 02:19:06 - Realizado consulta de cadastro
+Log:17/11/2022 02:19:13 - The SQLite connection is closed
+Log:17/11/2022 02:19:13 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:20:20 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:20:20 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:20:20 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:20:20 - Table already exists.
+Log:17/11/2022 02:20:20 - SQLite table created
+Log:17/11/2022 02:20:26 - Realizado consulta de cadastro
+Log:17/11/2022 02:20:44 - Realizado consulta de cadastro
+Log:17/11/2022 02:20:46 - The SQLite connection is closed
+Log:17/11/2022 02:20:46 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:20:50 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:20:50 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:20:50 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:20:50 - Table already exists.
+Log:17/11/2022 02:20:50 - SQLite table created
+Log:17/11/2022 02:21:12 - Realizado Cadastro dos dados: Maria, 35, Rua Palmeiras, 33, Rifaina
+Log:17/11/2022 02:21:34 - Alterou dado NO de 4
+Log:17/11/2022 02:21:39 - The SQLite connection is closed
+Log:17/11/2022 02:21:39 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:22:36 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:22:36 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:22:36 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:22:36 - Table already exists.
+Log:17/11/2022 02:22:36 - SQLite table created
+Log:17/11/2022 02:22:58 - Alterou dado NO de 1
+Log:17/11/2022 02:24:01 - The SQLite connection is closed
+Log:17/11/2022 02:24:01 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:24:06 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:24:06 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:24:06 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:24:06 - Table already exists.
+Log:17/11/2022 02:24:06 - SQLite table created
+Log:17/11/2022 02:24:31 - Alterou dado I de 2
+Log:17/11/2022 02:24:49 - Cliente 1 apagado
+Log:17/11/2022 02:25:20 - The SQLite connection is closed
+Log:17/11/2022 02:25:20 - ***** FIM DA MAIN *****
+Log:17/11/2022 02:25:24 - ***** INICIO DA MAIN *****
+Log:17/11/2022 02:25:24 - Database created and Successfully Connected to SQLite
+Log:17/11/2022 02:25:24 - SQLite Database Version is: , [('3.38.4',)]
+Log:17/11/2022 02:25:24 - Table already exists.
+Log:17/11/2022 02:25:24 - SQLite table created
+Log:17/11/2022 02:25:34 - Cliente 2 apagado
+Log:17/11/2022 02:25:41 - The SQLite connection is closed
+Log:17/11/2022 02:25:41 - ***** FIM DA MAIN *****
